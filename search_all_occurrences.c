@@ -1,6 +1,4 @@
 // C program to search all occurrences of a character in a string
-
-
 #include <stdio.h>
 #define MAX_SIZE 100 
 
